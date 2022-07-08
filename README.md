@@ -1,3 +1,4 @@
 # assignments
-Some assignments I've done, but scripts are generalized so they are not necessarily in the required format for courses.
-Some scripts might require some standard input files, which can be found in `examples`.
+Creating colormap for matplotlib to add a gradient fill where you can choose colors yourself. 
+
+This code can be an alternative solution for improving the figures, instead of using Photoshop since PS cannot correctly output a vector image file.
